@@ -1,3 +1,3 @@
-# Jogo do Bem – Amigos do Fefê
+# Jogo do Bem – Amigos do Fefe
 
 Site oficial do projeto solidário Jogo do Bem.
