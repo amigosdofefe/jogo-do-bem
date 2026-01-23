@@ -141,15 +141,15 @@
   border-radius: 12px;
   border: 1px solid var(--borda);
   overflow: hidden;
-  background: #000;
+  background: transparent; /* remove o fundo preto */
 }
 
 .photo img {
   width: 100%;
   height: 100%;
-  object-fit: contain; /* ✅ NÃO CORTA */
+  object-fit: contain;     /* não corta rostos */
   display: block;
-  background: #000;
+  background: transparent; /* sem faixa preta */
 }
 
     }
